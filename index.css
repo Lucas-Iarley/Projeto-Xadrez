@@ -2,7 +2,7 @@ body{display: flex;
 			justify-content:space-between;
 			text-align: center;	
 			flex-direction: row;
-			background-image: url("C:/Users/Usuario/Desktop/su-san-lee-E_eWwM29wfU-unsplash (1).jpg");
+			background-image: url("C:/Users/Usuario/Downloads/documentos HTML/pecas_deXadrez/contents/su-san-lee-E_eWwM29wfU-unsplash (1).jpg");
 			background-size: cover;
 		}
 		
@@ -151,7 +151,7 @@ body{display: flex;
 	/*----pagina principal---------------------*/
 
 	.bodydatela{
-		background-image: url("C:/Users/Usuario/Desktop/su-san-lee-E_eWwM29wfU-unsplash (1).jpg");
+		background-image: url("C:/Users/Usuario/Downloads/documentos HTML/pecas_deXadrez/contents/su-san-lee-E_eWwM29wfU-unsplash (1).jpg");
 			background-position: center;
 			background-repeat:no-repeat ;
 			background-size: cover;
